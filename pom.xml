@@ -14,6 +14,10 @@
     <version>2.6.4</version>
     <name>${project.artifactId}</name>
     <packaging>pom</packaging>
+    <modules>
+        <module>spring-petclinic-admin-server</module>
+       
+    </modules>
 
     <properties>
         <java.version>17</java.version>
